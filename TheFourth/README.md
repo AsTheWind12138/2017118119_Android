@@ -1,4 +1,4 @@
-µÚËÄ´Î×÷Òµ:ÒþÊ½IntentµÄµ÷ÓÃ
- 1.<action android:name="android.intent.action.MAIN" />µ±action×¢²áÁËandroid.intent.action.MAINÊ±»á×÷ÎªÖ÷»î¶¯Æô¶¯
- 2.µ±Ê¹ÓÃÏµÍ³µÄÒþÊ½»î¶¯Ê±,¿ÉÒÔ²»½øÐÐ×¢²á¡£µ±Ê¹ÓÃÁË×Ô¶¨ÒåÁËÒþÊ½»î¶¯Òª½øÐÐÏàÓ¦µÄ×¢²á¡£
- 3.Ê¹ÓÃÒþÊ½ÒâÍ¼¿ÉÒÔ±ÜÃâ¹Ì¶¨ÀàÐÍµÄÌø×ª(ÀýÈç:µ±ÄãÐèÒª·ÃÎÊÒ»¸öÍøÕ¾,ÔÚÏÔÊ½Ê±ÐèÒªÃ÷È·ÄãÊÖ»úËù°²×°µÄä¯ÀÀÆ÷,¶øÒþÊ½Ôò²»ÐèÒªÁË½âÄãÊÖ»úµÄÓ¦ÓÃ)
+ç¬¬å››æ¬¡ä½œä¸š:éšå¼Intentçš„è°ƒç”¨
+ 1.<action android:name="android.intent.action.MAIN" />å½“actionæ³¨å†Œäº†android.intent.action.MAINæ—¶ä¼šä½œä¸ºä¸»æ´»åŠ¨å¯åŠ¨
+ 2.å½“ä½¿ç”¨ç³»ç»Ÿçš„éšå¼æ´»åŠ¨æ—¶,å¯ä»¥ä¸è¿›è¡Œæ³¨å†Œã€‚å½“ä½¿ç”¨äº†è‡ªå®šä¹‰äº†éšå¼æ´»åŠ¨è¦è¿›è¡Œç›¸åº”çš„æ³¨å†Œã€‚
+ 
