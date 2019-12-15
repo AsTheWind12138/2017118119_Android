@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # 2017118119_Android
-作业一:The/helloworld
+作业一:helloworld
 
 两个活动能来回切换
 
@@ -20,4 +19,4 @@ RecyclerView做UI界面实现增删查改
 作业六:prj6
 
 服务
->>>>>>> 02174f94ae96aa824e1250f659dfb647c14c3ae5
+
