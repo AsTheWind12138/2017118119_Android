@@ -16,7 +16,7 @@ RecyclerView做UI界面实现增删查改
 
 做一个子线程程序
 
-作业六:prj6
+作业六:TheSix
 
 服务
 
